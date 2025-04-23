@@ -1,8 +1,4 @@
 # Library Catalogue API Design
-
-## Introduction
-Este documento describe el diseño de una API RESTful para un sistema de Catálogo de Biblioteca. El sistema gestiona libros, autores, categorías y préstamos en una biblioteca.
-
 ## Descripción de Entidades
 
 1. **Libros (Books)**
